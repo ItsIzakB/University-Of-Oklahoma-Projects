@@ -1,6 +1,10 @@
 [submodule "Cybersecurity/Cybersecurity/P2PMessaging program and report/P2PMessaging"]
 	path = Cybersecurity/Cybersecurity/P2PMessaging program and report/P2PMessaging
 	url = https://github.com/ItsIzakB/P2PMessaging
+[submodule "Programming-Structures-and-Algorithms/Final-Exam-Project"]
+	path = Programming-Structures-and-Algorithms/Final-Exam-Project
+	url = https://github.com/OU-CS2334/finalexam-ItsIzakB.git
 [submodule "Software-Engineering/SafeSkate"]
 	path = Software-Engineering/SafeSkate
 	url = https://github.com/JohnSchruben/GroupJ
+
